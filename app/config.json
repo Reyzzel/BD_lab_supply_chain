@@ -1,0 +1,8 @@
+{
+  "connection": "host=localhost port=5432 dbname=lab_supply_chain user=scm_api password=scm_api",
+  "users": {
+    "sales": "ivan.sales",
+    "store": "petro.store",
+    "manager": "olena.manager"
+  }
+}
